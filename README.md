@@ -9,3 +9,4 @@ This project is designed to control devices through Wi-Fi using the ESP32-C3 mic
 - **Web Interface**: Simple web-based interface for device control.
 - **Open Source**: Both hardware and software are open-source.
 
+![PCB](/Mirage.JPG)
