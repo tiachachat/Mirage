@@ -13,4 +13,4 @@ This project is designed to control devices through Wi-Fi using the ESP32-C3 mic
 ![PCB](/Mirage.JPG)
 
 ## Photo
-![PCB](/Mirage2.JPG)
+![PCB](/Mirage2.jpg)
